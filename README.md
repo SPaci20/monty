@@ -6,8 +6,8 @@ Data structure
 
 Project to be done in teams of 2 people 
 
-Our team: Vincent DUSHIME, Github:Vincidax 
-          SHIMIRWA Pacifique, Github:SPaci20
+Our team: Vincent DUSHIME, Github:"Vincidax" & 
+          SHIMIRWA Pacifique, Github:"SPaci20".
 
 The Monty language
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python).
