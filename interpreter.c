@@ -37,6 +37,10 @@ void interpret_file(FILE *file, stack_t **stack)
 		{
 			pall(stack);
 		}
+		else if (strcmp(opcode, "pint") == 0)
+		{
+			pint(stack, line_number);
+		}
 		/* Handle other opcode cases here */
 		/* Handle unrecognized opcodes */
 	}
