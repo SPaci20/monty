@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Werror -Wextra -pedantic -std=c99
-SRC = main.c push.c pall.c
+SRC = main.c push.c pall.c interpreter.c
 OBJ = $(SRC:.c=.o)
 EXEC = monty
 
